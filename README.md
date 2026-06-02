@@ -1,4 +1,4 @@
-# Machine Learning Research
+# Machine Learning Papers
 
 A collection of research papers, experimental studies, and reproducible implementations exploring the theoretical and practical foundations of Machine Learning, Artificial Intelligence, Statistics, and Data Science.
 
